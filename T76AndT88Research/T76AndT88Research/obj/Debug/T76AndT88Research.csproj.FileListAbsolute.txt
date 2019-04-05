@@ -1,0 +1,12 @@
+Z:\program\T76AndT88Research\T76AndT88Research\bin\Debug\T76AndT88Research.exe.config
+Z:\program\T76AndT88Research\T76AndT88Research\bin\Debug\T76AndT88Research.exe
+Z:\program\T76AndT88Research\T76AndT88Research\bin\Debug\T76AndT88Research.pdb
+Z:\program\T76AndT88Research\T76AndT88Research\obj\Debug\T76AndT88Research.csprojAssemblyReference.cache
+Z:\program\T76AndT88Research\T76AndT88Research\obj\Debug\T76AndT88Research.Form1.resources
+Z:\program\T76AndT88Research\T76AndT88Research\obj\Debug\T76AndT88Research.Properties.Resources.resources
+Z:\program\T76AndT88Research\T76AndT88Research\obj\Debug\T76AndT88Research.csproj.GenerateResource.cache
+Z:\program\T76AndT88Research\T76AndT88Research\obj\Debug\T76AndT88Research.csproj.CoreCompileInputs.cache
+Z:\program\T76AndT88Research\T76AndT88Research\obj\Debug\T76AndT88Research.exe
+Z:\program\T76AndT88Research\T76AndT88Research\obj\Debug\T76AndT88Research.pdb
+Z:\program\T76AndT88Research\T76AndT88Research\obj\Debug\T76AndT88Research.Form2.resources
+Z:\program\T76AndT88Research\T76AndT88Research\obj\Debug\T76AndT88Research.Form3.resources
